@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/intdoducao/meu-projeto/node_modules
 /.pnp
 .pnp.js
 
