@@ -2,6 +2,8 @@ import './App.css';
 import './components/helloWorld'
 import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
+import Frase from './components/Frase';
+
 
 
 
@@ -11,6 +13,9 @@ function App() {
     <div className="App" >
 
 
+      <Frase />
+      <Frase />
+      <Frase />
 
       < SayMyName nome="Aldo" />
       < SayMyName nome={nome} />
